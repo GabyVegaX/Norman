@@ -1,0 +1,36 @@
+body
+{
+  background-color: lime;
+text-align: center;
+}
+h1
+{
+  color: Black;
+  border-style: dashed;
+  border-color: black;
+  border-width: 5px;
+  padding: 5px;
+  font-family: pusab;
+}
+a
+{
+  color: white;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: black;
+  border-width: 3px;
+  padding: 2px;
+  border-radius: 20px;
+  font-family: pusab;
+}
+p
+{
+  color: black;
+  word-spacing: 8px;
+  font-size: 20px;
+  font-family: pusab;
+}
+img
+{
+  width: 250px;
+}
